@@ -47,7 +47,7 @@ Step 1: Create a docker hub account
 
 Step 2: Create a PAT for your docker hub account
 
-Step 3: Create a Docker Hub repository (public) with name `simple-flask-app`
+Step 3: Create a Docker Hub repository (public) with name `abisu-flask-app`
 
 Step 4: Create secrets and variables in GitHub Repo
 

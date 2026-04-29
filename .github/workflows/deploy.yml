@@ -9,7 +9,7 @@ on:
       - main          # Run CI checks on PRs (no deploy)
 
 env:
-  IMAGE_NAME: my-flask-app
+  IMAGE_NAME: abisu-flask-app
   CONTAINER_NAME: flask-app
 
 jobs:
